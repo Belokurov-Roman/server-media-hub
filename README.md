@@ -1,24 +1,9 @@
-# Start server Media Hub
+MediaHub
+Desktop-приложение на React, Electron для организации и потребления медиа-контента с функционалом для общения пользователей
 
-### `npm i`
+Основные технологии приложения: Electron js, React, Webpack.
 
-## Start server
-
-### `npm run start:dev`
-
-## Create your branch from develop
-
-### `git checkout -b form-NameYourBranch`
-
-## Git Roma Tips
-
-### `git pull`
-### `git fetch`
-### `git merge develop`
-
-### `git add .`
-### `git commit -m 'DON'T CREATE NAME HOW YOUR NAME!!!'`
-### `git push`
+Frontend Repository - https://github.com/Belokurov-Roman/media-hub-client
 
 
 
